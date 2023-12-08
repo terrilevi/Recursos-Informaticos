@@ -1,1 +1,3 @@
 # Recursos-Informaticos
+
+Aquí podrás encontrar una variedad de recursos informáticos como libros, links, libros recomendados por profesores, Notebooks y blogs para que puedas expandir tu conocimiento...
